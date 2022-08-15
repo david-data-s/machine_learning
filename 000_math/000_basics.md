@@ -60,20 +60,30 @@ Small letters:
 | &omega; | &#969; | Greek small letter omega | ω |   
 
 ```markdown
-
-αA	$\alpha A$	νN	$\nu N$
-βB	$\beta B$	ξΞ	$\xi\Xi$
-γΓ	$\gamma \Gamma$	oO	$o O$ (omicron)
-δΔ	$\delta \Delta$	πΠ	$\pi \Pi$
-ϵεE	$\epsilon \varepsilon E$	ρϱP	$\rho\varrho P$
-ζZ	$\zeta Z \sigma \,\!$	Σ	$\sigma \Sigma$
-ηH	$\eta H$	τT	$\tau T$
-θϑΘ	$\theta \vartheta \Theta$	υΥ	$\upsilon \Upsilon$
-ιI	$\iota I$	ϕφΦ	$\phi \varphi \Phi$
-κK	$\kappa K$	χX	$\chi X$
-λΛ	$\lambda \Lambda$	ψΨ	$\psi \Psi$
-μM	$\mu M$	ωΩ	$\omega \Omega$
-
+$\alpha A$
+$\beta B$
+$\gamma \Gamma$	
+$\delta \Delta$	
+$\epsilon \varepsilon E$	
+$\zeta Z \sigma \,\!$	
+$\eta H$	
+$\theta \vartheta \Theta$	
+$\iota I$	
+$\kappa K$	
+$\lambda \Lambda$	
+$\mu M$	
+$\nu N$
+$\xi\Xi$
+$o O$ (omicron)
+$\pi \Pi$
+$\rho\varrho P$
+$\sigma \Sigma$
+$\tau T$
+$\upsilon \Upsilon$
+$\phi \varphi \Phi$
+$\chi X$
+$\psi \Psi$
+$\omega \Omega$
 ```
 
 ### Support or Contact
