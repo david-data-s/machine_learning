@@ -34,6 +34,8 @@ Capital letters:
 
 &sum_{n=1}^{10} (n^2)
 
+&sum;
+
 $\sum_{n=1}^{10} (n^2)$
 
 ```
