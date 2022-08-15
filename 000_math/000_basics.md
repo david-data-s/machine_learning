@@ -60,6 +60,7 @@ Small letters:
 | &omega; | &#969; | Greek small letter omega | ω |   
 
 ```markdown
+&alpha
 $\alpha A$
 $\beta B$
 $\gamma \Gamma$	
