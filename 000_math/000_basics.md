@@ -3,89 +3,32 @@
 ### Greek letters
 Capital letters:
 
-| Code Name | Code | Description | Symbol / Character |                                                                 
-| -- | -- | -- | -- |                                                                                                   
-| &Alpha; | &#913; | Greek capital letter alpha | Α |                                                                   
-| &Beta; | &#914; | Greek capital letter beta | Β |                                                                     
-| &Gamma; | &#915; | Greek capital letter gamma | Γ |                                                                   
-| &Delta; | &#916; | Greek capital letter delta | Δ |                                                                   
-| &Epsilon; | &#917; | Greek capital letter epsilon | Ε |                                                               
-| &Zeta; | &#918; | Greek capital letter zeta | Ζ |                                                                     
-| &Eta; | &#919; | Greek capital letter eta | Η |                                                                       
-| &Theta; | &#920; | Greek capital letter theta | Θ |                                                                   
-| &Iota; | &#921; | Greek capital letter iota | Ι |                                                                     
-| &Kappa; | &#922; | Greek capital letter kappa | Κ |                                                                   
-| &Lambda; | &#923; | Greek capital letter lambda | Λ |                                                                 
-| &Mu; | &#924; | Greek capital letter mu | Μ |                                                                         
-| &Nu; | &#925; | Greek capital letter nu | Ν |                                                                         
-| &Xi; | &#926; | Greek capital letter xi | Ξ |                                                                         
-| &Omicron; | &#927; | Greek capital letter omicron | Ο |                                                               
-| &Pi; | &#928; | Greek capital letter pi | Π |                                                                         
-| &Rho; | &#929; | Greek capital letter rho | Ρ |                                                                       
-| &Sigma; | &#931; | Greek capital letter sigma | Σ |                                                                   
-| &Tau; | &#932; | Greek capital letter tau | Τ |                                                                       
-| &Upsilon; | &#933; | Greek capital letter upsilon | Υ |                                                               
-| &Phi; | &#934; | Greek capital letter phi | Φ |                                                                       
-| &Chi; | &#935; | Greek capital letter chi | Χ |                                                                       
-| &Psi; | &#936; | Greek capital letter psi | Ψ |                                                                       
-| &Omega; | &#937; | Greek capital letter omega | Ω |                                                                         
+| Code Name | Code | Description | Symbol / Character || Code Name | Code | Description | Symbol / Character |                                                           
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |                                                                                    
+| &Alpha; | &#913; | alpha | Α || &alpha; | &#945; | alpha | α |                                                                    
+| &Beta; | &#914; | beta | Β || &beta; | &#946; | beta | β |                                                                      
+| &Gamma; | &#915; | gamma | Γ || &gamma; | &#947; | gamma | γ |                                                                    
+| &Delta; | &#916; | delta | Δ || &delta; | &#948; | delta | δ |                                                                   
+| &Epsilon; | &#917; | epsilon | Ε || &epsilon; | &#949; | epsilon | ε |                                                                
+| &Zeta; | &#918; | zeta | Ζ || &zeta; | &#950; | zeta | ζ |                                                                      
+| &Eta; | &#919; | eta | Η || &eta; | &#951; | eta | η |                                                                       
+| &Theta; | &#920; | theta | Θ || &theta; | &#952; | theta | θ |                                                                   
+| &Iota; | &#921; | iota | Ι || &iota; | &#953; | iota | ι |                                                                     
+| &Kappa; | &#922; | kappa | Κ || &kappa; | &#954; | kappa | κ |                                                                   
+| &Lambda; | &#923; | lambda | Λ || &lambda; | &#955; | lambda | λ |                                                                 
+| &Mu; | &#924; | mu | Μ || &mu; | &#956; | mu | μ |                                                                         
+| &Nu; | &#925; | nu | Ν || &nu; | &#957; | nu | ν |                                                                         
+| &Xi; | &#926; | xi | Ξ || &xi; | &#958; | xi | ξ |                                                                         
+| &Omicron; | &#927; | omicron | Ο || &omicron; | &#959; | omicron | ο |                                                                  
+| &Pi; | &#928; | pi | Π || &pi; | &#960; | pi | π |                                                                          
+| &Rho; | &#929; | rho | Ρ || &rho; | &#961; | rho | ρ |                                                                       
+| &Sigma; | &#931; | sigma | Σ || &sigma; | &#963; | sigma | σ |                                                                    
+| &Tau; | &#932; | tau | Τ || &tau; | &#964; | tau | τ |                                                                         
+| &Upsilon; | &#933; | upsilon | Υ || &upsilon; | &#965; | upsilon | υ |                                                               
+| &Phi; | &#934; | phi | Φ || &phi; | &#966; | phi | φ |                                                                         
+| &Chi; | &#935; | chi | Χ || &chi; | &#967; | chi | χ |                                                                        
+| &Psi; | &#936; | psi | Ψ || &psi; | &#968; | psi | ψ |                                                                       
+| &Omega; | &#937; | omega | Ω || &omega; | &#969; | omega | ω |                                                                         
 
-Small letters:
-
-| Code Name | Code | Description | Symbol / Character |                                                                 
-| -- | -- | -- | -- |                                                                                                   
-| &alpha; | &#945; | Greek small letter alpha | α |                                                                     
-| &beta; | &#946; | Greek small letter beta | β |                                                                       
-| &gamma; | &#947; | Greek small letter gamma | γ |                                                                     
-| &delta; | &#948; | Greek small letter delta | δ |                                                                     
-| &epsilon; | &#949; | Greek small letter epsilon | ε |                                                                 
-| &zeta; | &#950; | Greek small letter zeta | ζ |                                                                       
-| &eta; | &#951; | Greek small letter eta | η |                                                                         
-| &theta; | &#952; | Greek small letter theta | θ |                                                                     
-| &iota; | &#953; | Greek small letter iota | ι |                                                                       
-| &kappa; | &#954; | Greek small letter kappa | κ |                                                                     
-| &lambda; | &#955; | Greek small letter lambda | λ |                                                                   
-| &mu; | &#956; | Greek small letter mu | μ |                                                                           
-| &nu; | &#957; | Greek small letter nu | ν |                                                                           
-| &xi; | &#958; | Greek small letter xi | ξ |                                                                           
-| &omicron; | &#959; | Greek small letter omicron | ο |                                                                 
-| &pi; | &#960; | Greek small letter pi | π |                                                                           
-| &rho; | &#961; | Greek small letter rho | ρ |                                                                         
-| &sigma; | &#963; | Greek small letter sigma | σ |                                                                     
-| &tau; | &#964; | Greek small letter tau | τ |                                                                         
-| &upsilon; | &#965; | Greek small letter upsilon | υ |                                                                 
-| &phi; | &#966; | Greek small letter phi | φ |                                                                         
-| &chi; | &#967; | Greek small letter chi | χ |                                                                         
-| &psi; | &#968; | Greek small letter psi | ψ |                                                                         
-| &omega; | &#969; | Greek small letter omega | ω |   
-
-```markdown
-&alpha
-$\alpha A$
-$\beta B$
-$\gamma \Gamma$	
-$\delta \Delta$	
-$\epsilon \varepsilon E$	
-$\zeta Z \sigma \,\!$	
-$\eta H$	
-$\theta \vartheta \Theta$	
-$\iota I$	
-$\kappa K$	
-$\lambda \Lambda$	
-$\mu M$	
-$\nu N$
-$\xi\Xi$
-$o O$ (omicron)
-$\pi \Pi$
-$\rho\varrho P$
-$\sigma \Sigma$
-$\tau T$
-$\upsilon \Upsilon$
-$\phi \varphi \Phi$
-$\chi X$
-$\psi \Psi$
-$\omega \Omega$
-
-```
 
 ### Support or Contact
