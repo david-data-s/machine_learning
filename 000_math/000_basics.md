@@ -28,7 +28,11 @@ Capital letters:
 | &Phi; | &#934; | phi | Φ || &phi; | &#966; | phi | φ |                                                                         
 | &Chi; | &#935; | chi | Χ || &chi; | &#967; | chi | χ |                                                                        
 | &Psi; | &#936; | psi | Ψ || &psi; | &#968; | psi | ψ |                                                                       
-| &Omega; | &#937; | omega | Ω || &omega; | &#969; | omega | ω |                                                                         
+| &Omega; | &#937; | omega | Ω || &omega; | &#969; | omega | ω |    
+
+\sum_{n=1}^{10} n^2
+
+$\sum_{n=1}^{10} n^2$
 
 ```
 \sum_{n=1}^{10} n^2
