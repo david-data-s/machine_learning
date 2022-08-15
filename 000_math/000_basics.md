@@ -30,5 +30,10 @@ Capital letters:
 | &Psi; | &#936; | psi | Ψ || &psi; | &#968; | psi | ψ |                                                                       
 | &Omega; | &#937; | omega | Ω || &omega; | &#969; | omega | ω |                                                                         
 
+```
+\sum_{n=1}^{10} n^2
+
+$\sum_{n=1}^{10} n^2$
+```
 
 ### Support or Contact
